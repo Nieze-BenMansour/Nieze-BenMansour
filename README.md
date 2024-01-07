@@ -1,4 +1,4 @@
-- # Nieze BEN MANSOUR - Tech Lead .Net/Azure
+# Nieze BEN MANSOUR - Tech Lead .Net/Azure
 
 ## Overview
 
