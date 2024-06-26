@@ -28,6 +28,7 @@
 
 - **Email:** nieze.benmansour@gmail.com
 - **LinkedIn:** [Nieze's LinkedIn Profile](www.linkedin.com/in/nieze)
+- **twitter:** [Nieze's twitter Profile](https://x.com/NiezeBen)
 - **Location:** Tunis, Tunisia
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
