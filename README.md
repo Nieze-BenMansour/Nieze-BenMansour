@@ -22,6 +22,7 @@
 
 - Microsoft Azure Developer Associate (AZ-204) - August 2023
 - Microsoft Azure Fundamentals (AZ-900) - January 2023
+- Microsoft DevOps Engineer Expert (AZ-400) - July 2024
 - **Microsoft Transcript:** [Nieze's Microsoft Transcript](https://learn.microsoft.com/en-us/users/niezebenmansour-6601/transcript/dg13zh5el3gnj81?tab=tab-modules)
 
 
