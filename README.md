@@ -10,6 +10,7 @@
 - **Microsoft Azure Developer Associate - August 2023** [AZ-204](https://learn.microsoft.com/api/credentials/share/en-us/NiezeBenMansour-6601/2E5951AC919D88DE?sharingId=2E62FAB43BBAAFA5)
 - **Microsoft Azure Fundamentals - January 2023** [AZ-900](https://www.credly.com/badges/1694cb53-34af-4f81-a434-4f92cf02124b/linked_in_profile)
 - **Microsoft Transcript:** [Nieze's Microsoft Transcript](https://learn.microsoft.com/en-us/users/niezebenmansour-6601/transcript/dg13zh5el3gnj81?tab=tab-modules)
+- AWS Cloud Quest: [Cloud Practitioner](https://www.credly.com/badges/52662086-f8d2-4e98-b5f0-af93439311e6/linked_in_profile)
 
 ## Skills
 
