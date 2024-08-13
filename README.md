@@ -4,6 +4,13 @@
 
 👋 Welcome to my GitHub profile! I am Nieze BEN MANSOUR, a passionate Tech Lead with expertise in .NET and Azure. This README provides an overview of my skills, certifications, and professional experience.
 
+## Certifications
+
+- Microsoft Azure Developer Associate (AZ-204) - August 2023
+- Microsoft Azure Fundamentals (AZ-900) - January 2023
+- Microsoft DevOps Engineer Expert (AZ-400) - July 2024
+- **Microsoft Transcript:** [Nieze's Microsoft Transcript](https://learn.microsoft.com/en-us/users/niezebenmansour-6601/transcript/dg13zh5el3gnj81?tab=tab-modules)
+
 ## Skills
 
 - **Programming Languages:** C#, VB.NET, JavaScript, TypeScript, YAML, SQL
@@ -18,20 +25,11 @@
 - **API:** Rest, GraphQL, WCF
 - **Version Control Platforms:** GitHub, Azure Repos, Bitbucket
 
-## Certifications
-
-- Microsoft Azure Developer Associate (AZ-204) - August 2023
-- Microsoft Azure Fundamentals (AZ-900) - January 2023
-- Microsoft DevOps Engineer Expert (AZ-400) - July 2024
-- **Microsoft Transcript:** [Nieze's Microsoft Transcript](https://learn.microsoft.com/en-us/users/niezebenmansour-6601/transcript/dg13zh5el3gnj81?tab=tab-modules)
-
-
 ## 📫 How to reach me
 
 - **Email:** nieze.benmansour@gmail.com
 - **LinkedIn:** [Nieze's LinkedIn Profile](www.linkedin.com/in/nieze)
 - **twitter:** [Nieze's twitter Profile](https://x.com/NiezeBen)
-- **Location:** Tunis, Tunisia
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
 
