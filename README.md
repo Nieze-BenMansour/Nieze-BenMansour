@@ -7,7 +7,7 @@
 ## Certifications
 
 - Microsoft Azure Developer Associate (AZ-204) - August 2023
-- Microsoft Azure Fundamentals (AZ-900) - January 2023
+- ** Microsoft Azure Fundamentals (AZ-900) - January 2023:** ([AZ-900]([https://learn.microsoft.com/en-us/users/niezebenmansour-6601/credentials/dd59d7114448fe22?ref=https%3A%2F%2Fwww.linkedin.com%2F](https://www.credly.com/badges/1694cb53-34af-4f81-a434-4f92cf02124b/linked_in_profile)))
 - **Microsoft DevOps Engineer Expert - July 2024:** ([AZ-400](https://learn.microsoft.com/en-us/users/niezebenmansour-6601/credentials/dd59d7114448fe22?ref=https%3A%2F%2Fwww.linkedin.com%2F))
 - **Microsoft Transcript:** [Nieze's Microsoft Transcript](https://learn.microsoft.com/en-us/users/niezebenmansour-6601/transcript/dg13zh5el3gnj81?tab=tab-modules)
 
