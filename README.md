@@ -13,7 +13,7 @@
 
 ## Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,windows,vscode,stackoverflow,rabbitmq,powershell,kubernetes,github)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,windows,vscode,stackoverflow,rabbitmq,kafka,graphql,grafana,powershell,kubernetes,github)](https://skillicons.dev)
 
 - **Programming Languages:** C#, VB.NET, JavaScript, TypeScript, YAML, SQL
 - **IDE:** Visual Studio, Visual Studio Code, Rider, SSIS, SSRS, SSMS
