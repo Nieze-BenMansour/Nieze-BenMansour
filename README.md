@@ -1,4 +1,4 @@
-# Nieze BEN MANSOUR - .Net  and Azure Trainer
+# Nieze BEN MANSOUR - .NET and Azure Trainer
 
 ## Overview
 
