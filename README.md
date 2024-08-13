@@ -2,7 +2,7 @@
 
 ## Overview
 
-👋 Welcome to my GitHub profile! I am Nieze BEN MANSOUR, a passionate Tech Lead with expertise in .NET and Azure. This README overviews my skills, certifications, and professional experience.
+👋 Welcome to my GitHub profile! I am Nieze BEN MANSOUR, a passionate Tech Lead and Trainer with expertise in .NET and Azure. This README overviews my skills, certifications, and professional experience.
 
 ## Certifications
 
