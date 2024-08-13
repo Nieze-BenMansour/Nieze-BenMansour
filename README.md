@@ -13,6 +13,8 @@
 
 ## Skills
 
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,azure,github,windows,vscode,stackoverflow,vscode,rabbitmq,powershell,kubernetes,github)](https://skillicons.dev)
+
 - **Programming Languages:** C#, VB.NET, JavaScript, TypeScript, YAML, SQL
 - **IDE:** Visual Studio, Visual Studio Code, Rider, SSIS, SSRS, SSMS
 - **Frameworks:** ASP .NET Core, Angular, Razor, Entity Framework, LINQ, Web Forms, WPF
