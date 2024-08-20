@@ -33,6 +33,7 @@
 - **Email:** nieze.benmansour@gmail.com
 - **LinkedIn:** [Nieze's LinkedIn Profile](www.linkedin.com/in/nieze)
 - **twitter:** [Nieze's twitter Profile](https://x.com/NiezeBen)
+- **StackOverflow:** [Nieze's StackOverflow Profile](https://stackoverflow.com/users/23209833/nieze-ben-mansour)
 
 Feel free to explore my repositories and reach out if you have any questions or collaboration opportunities!
 
