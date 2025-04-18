@@ -16,15 +16,15 @@
 
 - **Programming Languages:** C#, VB.NET, JavaScript, TypeScript, YAML, SQL
 - **IDE:** Visual Studio, Visual Studio Code, Rider, SSIS, SSRS, SSMS
-- **Frameworks:** ASP .NET Core, Angular, Razor, Entity Framework, LINQ, Web Forms, WPF
+- **Frameworks:** ASP .NET Core, Angular, Razor, Entity Framework, LINQ, Web Forms, WPF, Blazor
 - **Databases:** SQL Server, Oracle, Azure Cosmos DB, Redis, MySQL, PostgreSQL
 - **DevOps:** Azure DevOps, GitHub Actions
 - **Cloud Services:** Azure App Service, Azure App Configuration, Azure Key Vault, Azure Storage Account
 - **Architectures:** Clean, Slice, Monolithic, Microservices
 - **MQ:** RabbitMQ, Azure Service Bus, ActiveMQ, Amazon SQS
 - **Productivity:** Azure Boards, Jira, ProjeQtOr, Scrum, Kanban
-- **API:** Rest, GraphQL, WCF
-- **Version Control Platforms:** GitHub, Azure Repos, Bitbucket
+- **API:** Rest, GraphQL, WCF, gRPC
+- **Version Control Platforms:** GitHub, Azure Repos, Bitbucket, GitLab
 
 ## 📫 How to reach me
 
