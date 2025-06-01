@@ -25,6 +25,7 @@
 - **Productivity:** Azure Boards, Jira, ProjeQtOr, Scrum, Kanban
 - **API:** Rest, GraphQL, WCF, gRPC
 - **Version Control Platforms:** GitHub, Azure Repos, Bitbucket, GitLab
+- **AI:** LangChain, MCP, Vector Database, ReAct Pattern
 
 ## 📫 How to reach me
 
