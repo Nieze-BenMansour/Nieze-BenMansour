@@ -30,7 +30,7 @@
 ## 📫 How to reach me
 
 - **Email:** nieze.benmansour@outlook.fr
-- **LinkedIn:** [Nieze's LinkedIn Profile](www.linkedin.com/in/nieze)
+- **LinkedIn:** [Nieze's LinkedIn Profile](https://linkedin.com/in/nieze)
 - **twitter:** [Nieze's twitter Profile](https://x.com/NiezeBen)
 - **StackOverflow:** [Nieze's StackOverflow Profile](https://stackoverflow.com/users/23209833/nieze-ben-mansour)
 
